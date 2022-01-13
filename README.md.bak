@@ -1,0 +1,12 @@
+# CMP-6048A Maths Visualisation
+ CMP-6048A Advanced Programming Assignment
+
+Python Version: 3.8
+
+To Run:
+
+1. Clone the Repo
+2. Make sure you have python 3.8 or newer installed on your machine (make sure you add to PATH during install).
+3. Navigate to the directory that contains main.py and requirements.txt in shell.
+4. Run pip 'install -r requirements.txt' in shell.
+3. Run the application by running 'python main.py' in shell, or open using your IDE of choice.

@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/images">
+    <file>stylesheets/images/exampleAdvCalc.png</file>
+    <file>stylesheets/images/exampleGraphZeroCalc.png</file>
+    <file>stylesheets/images/exampleConsoleBasicCalc.png</file>
+    <file>stylesheets/images/exampleAdvCalc.png</file>
+    <file>stylesheets/images/exampleBasicCalc.png</file>
+    <file>stylesheets/images/menuBar_error.png</file>
+    <file>stylesheets/images/menuBar.png</file>
+    <file>stylesheets/images/splashScreen.png</file>
+  </qresource>
+</RCC>

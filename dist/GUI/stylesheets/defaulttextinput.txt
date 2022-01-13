@@ -1,0 +1,1 @@
+QLineEdit{border:2px solid;border-color:rgb(214, 214, 214);background-color: rgb(81, 85, 93);color:rgb(214, 214, 214);}

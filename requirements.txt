@@ -1,0 +1,8 @@
+PySide2~=5.15.2
+setuptools~=58.1.0
+qt_material
+matplotlib~=3.5.0
+numpy~=1.20.3
+PyQt5~=5.15.4
+sympy~=1.9
+numexpr~=2.8.1

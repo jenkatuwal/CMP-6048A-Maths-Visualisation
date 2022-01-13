@@ -1,0 +1,1 @@
+QLineEdit{border:2px solid;border-color:rgb(214, 214, 214);background-color: rgb(255, 255, 255);color:rgb(214, 214, 214);}QFrame{background-color: rgb(255, 255, 255)}

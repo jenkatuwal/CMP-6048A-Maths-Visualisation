@@ -1,0 +1,1 @@
+QFrame{border : 3px solid rgb(61, 64, 70); background-color : #FFFFFF;border-radius: 10px;opacity : 0;}
